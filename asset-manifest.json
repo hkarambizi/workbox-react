@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/workbox-react/static/css/main.e2af4c97.chunk.css",
+    "main.js": "/workbox-react/static/js/main.6fbb19d5.chunk.js",
+    "main.js.map": "/workbox-react/static/js/main.6fbb19d5.chunk.js.map",
+    "runtime~main.js": "/workbox-react/static/js/runtime~main.272b9dc6.js",
+    "runtime~main.js.map": "/workbox-react/static/js/runtime~main.272b9dc6.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/workbox-react/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/workbox-react/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/workbox-react/index.html",
+    "precache-manifest.856674ea8a31d8f9f421effc914a1134.js": "/workbox-react/precache-manifest.856674ea8a31d8f9f421effc914a1134.js",
+    "service-worker.js": "/workbox-react/service-worker.js",
+    "static/css/main.e2af4c97.chunk.css.map": "/workbox-react/static/css/main.e2af4c97.chunk.css.map"
+  }
+}
